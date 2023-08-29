@@ -8,7 +8,7 @@ The Superstore data set contains information about products, sales, profits, and
 #### Dataset Source:
 **[Superstor Dataset](https://www.kaggle.com/datasets/keyizhang14/superstore?resource=download)**
 
-## 📊 Analysis 
+## 📊 Analysis With Excel
 Created an interactive Excel dashboard using pivot tables, custom formatting, dynamic charts, filter buttons, and slicers.
 ### - Snapshot Of The Dashoboard
 <p align="center">
