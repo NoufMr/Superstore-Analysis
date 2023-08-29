@@ -5,6 +5,9 @@
     
 The Superstore data set contains information about products, sales, profits, and so on that you can use to identify key areas for improvement within this fictitious company. The dataset shows sales of a fictional Superstore for 4 years from 2015 to 2018. It contains information about products, sales, profits.
 
+#### Dataset Source:
+**[Superstor Dataset](https://www.kaggle.com/datasets/keyizhang14/superstore?resource=download)**
+
 ## 📊 Analysis 
 Created an interactive Excel dashboard using pivot tables, custom formatting, dynamic charts, filter buttons, and slicers.
 ### - Snapshot Of The Dashoboard
